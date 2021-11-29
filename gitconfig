@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nunezcorrea.stephanie@gmail.com
+	name = Stephanie Nuñez
